@@ -1,4 +1,4 @@
-// CALCULADORA Valor de 2 Numeros
+// CALCULADORA Valor de 2 Numeros.
 
 
 var operacao = 0;
